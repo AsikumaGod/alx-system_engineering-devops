@@ -12,3 +12,6 @@ This script list all the files with permission in a directory
 
 4-listmorefiles
 This script list the contents of a directory with hidden files
+
+4-listfilesdigitonly
+This script print in the long format
