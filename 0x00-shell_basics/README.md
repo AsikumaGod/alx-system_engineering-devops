@@ -39,3 +39,10 @@ This script shows file types, u can try it out
 
 13-symbolic_link
 This script creates symbolic links 
+
+14-copy_html
+This script copy only html files
+
+15-100_let_move
+This script move only uppercase files
+
