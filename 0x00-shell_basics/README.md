@@ -9,3 +9,6 @@ This script takes you to your home directory
 
 3-listfiles
 This script list all the files with permission in a directory
+
+4-listmorefiles
+This script list the contents of a directory with hidden files
