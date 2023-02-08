@@ -35,4 +35,7 @@ This script move you back
 This script list files in an order, give it a try 
 
 12-file_type
-This script shows file types, u can try it out 
+This script shows file types, u can try it out
+
+13-symbolic_link
+This script creates symbolic links 
