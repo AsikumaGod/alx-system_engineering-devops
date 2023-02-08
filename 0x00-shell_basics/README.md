@@ -6,3 +6,6 @@ This script displays the content list of your current directory
 
 2-bring_me_home
 This script takes you to your home directory
+
+3-listfiles
+This script list all the files with permission in a directory
