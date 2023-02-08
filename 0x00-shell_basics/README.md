@@ -15,3 +15,6 @@ This script list the contents of a directory with hidden files
 
 4-listfilesdigitonly
 This script print in the long format
+
+5-firstdirectory
+This script create a directory at /tmp
