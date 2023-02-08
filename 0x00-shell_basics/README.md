@@ -13,8 +13,11 @@ This script list all the files with permission in a directory
 4-listmorefiles
 This script list the contents of a directory with hidden files
 
-4-listfilesdigitonly
+5-listfilesdigitonly
 This script print in the long format
 
-5-firstdirectory
+6-firstdirectory
 This script create a directory at /tmp
+
+7-movethatfile
+Moved a directory 
