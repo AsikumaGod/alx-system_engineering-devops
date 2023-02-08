@@ -23,4 +23,7 @@ This script create a directory at /tmp
 Moved a directory
 
 8-firstdelete
-This script deletes betty 
+This script deletes betty
+
+9-firstdirdeletion
+This script deletes my first directory 
