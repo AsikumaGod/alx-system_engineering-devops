@@ -20,4 +20,7 @@ This script print in the long format
 This script create a directory at /tmp
 
 7-movethatfile
-Moved a directory 
+Moved a directory
+
+8-firstdelete
+This script deletes betty 
