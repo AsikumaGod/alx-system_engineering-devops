@@ -30,3 +30,9 @@ This script deletes my first directory
 
 10-Back
 This script move you back 
+
+11-lists
+This script list files in an order, give it a try 
+
+12-file_type
+This script shows file types, u can try it out 
