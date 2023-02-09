@@ -14,3 +14,5 @@ This script changes and add execute to a file called hello
 This script changes the permissions of hello
 7-everybody
 This script modifies permissions
+8-james_bond
+works like james bond, haha
