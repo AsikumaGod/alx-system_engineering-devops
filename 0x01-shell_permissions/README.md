@@ -18,3 +18,5 @@ This script modifies permissions
 works like james bond, haha
 9-john_doe
 This script is great, john doe knows that
+10-mirror_permissions
+This script takes permissions and assisng them to others
