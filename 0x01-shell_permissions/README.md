@@ -8,3 +8,5 @@ This script print part of user groups
 This script transfers ownership of files
 4-empty
 This script creates an empty file called hello
+5-execute
+This script changes and add execute to a file called hello
