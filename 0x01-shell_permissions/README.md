@@ -6,3 +6,5 @@ This script print name of current user
 This script print part of user groups
 3-new_owner
 This script transfers ownership of files
+4-empty
+This script creates an empty file called hello
