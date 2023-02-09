@@ -12,3 +12,5 @@ This script creates an empty file called hello
 This script changes and add execute to a file called hello
 6-multiple_permissions
 This script changes the permissions of hello
+7-everybody
+This script modifies permissions
