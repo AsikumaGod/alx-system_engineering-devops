@@ -16,3 +16,5 @@ This script changes the permissions of hello
 This script modifies permissions
 8-james_bond
 works like james bond, haha
+9-john_doe
+This script is great, john doe knows that
