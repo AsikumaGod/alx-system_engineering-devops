@@ -10,3 +10,5 @@ This script transfers ownership of files
 This script creates an empty file called hello
 5-execute
 This script changes and add execute to a file called hello
+6-multiple_permissions
+This script changes the permissions of hello
