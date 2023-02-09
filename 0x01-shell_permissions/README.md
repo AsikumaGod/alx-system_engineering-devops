@@ -4,3 +4,5 @@ This script changes directory to betty
 This script print name of current user
 2-groups
 This script print part of user groups
+3-new_owner
+This script transfers ownership of files
